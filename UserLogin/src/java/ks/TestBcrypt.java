@@ -1,4 +1,3 @@
-// Assignment 4
 // Kody Scharf
 // August 1, 2017
 package ks;
