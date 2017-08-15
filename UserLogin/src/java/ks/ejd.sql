@@ -1,5 +1,4 @@
 /*
-Assignment 4
 Kody Scharf
 July 30, 2017
 */
